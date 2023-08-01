@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AprogramminGeek73
 - 👀 I’m interested in ... the things which i like
 - 🌱 I’m currently learning ... to _____ss _e_
-- 💞️ I’m looking to collaborate with ... __s__
+- ! I’m looking to collaborate with ... __s__
 - 📫 How to reach me ... through heart
 
 <!---
